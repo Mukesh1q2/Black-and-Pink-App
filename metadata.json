@@ -1,0 +1,7 @@
+{
+  "name": "Black & Pink Thrift Store",
+  "description": "A futuristic, female-centric virtual thrift store experience with an AI stylist and a virtual try-on room powered by Gemini. Explore unique styles in a Cosmic Matte Black & Cosmic Pink theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
